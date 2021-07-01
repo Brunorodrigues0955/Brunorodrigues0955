@@ -20,3 +20,19 @@ Here are some ideas to get you started:
 
 ---
 
+## CONTACT
+
+[![gmail-badge][gmail-img]][gmail]
+[![linkedin-badge][linkedin-img]][linkedin]
+[![github-badge][github-img]][github]
+
+[gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail]: mailto:brunorodrigues0955@gmail.com
+
+[linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin]: https://www.linkedin.com/in/brunorodri/
+
+[github-img]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github]: https://github.com/Brunorodrigues0955
+
+
