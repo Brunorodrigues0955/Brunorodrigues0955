@@ -25,7 +25,7 @@ I Intend to become a front-end developer.**
 [![PHP-badbge][php-img]][php]
 
 
-[mysql-img]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-img]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=green
 [mysql]: https://www.mysql.com/
 
 [git-img]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
