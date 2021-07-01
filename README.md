@@ -17,6 +17,28 @@ I Intend to become a front-end developer.**
 
 ---
 
+## Languages and Tools I have more knowledge of
+
+[![MySQL-badge][mysql-img]][mysql]
+[![GIT-badge][git-img]][git]
+[![Javascript-badge][javascript-img]][javascript]
+[![PHP-badbge][php-img]][php]
+
+
+[mysql-img]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql]: https://www.mysql.com/
+
+[git-img]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git]: https://git-scm.com/
+
+[javascript-img]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[javascript]: https://www.javascript.com/
+
+[php-img]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[php]: https://www.php.net/
+
+---
+
 ### Contact 💬
 
 [![gmail-badge][gmail-img]][gmail]
