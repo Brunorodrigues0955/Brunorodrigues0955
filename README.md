@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunorodrigues0955&theme=tokyonight)](https://github.com/anuraghaz/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunorodrigues0955&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## CONTACT
@@ -34,5 +31,13 @@ Here are some ideas to get you started:
 
 [github-img]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [github]: https://github.com/Brunorodrigues0955
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunorodrigues0955&theme=tokyonight)](https://github.com/anuraghaz/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunorodrigues0955&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 
 
