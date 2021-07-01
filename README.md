@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-# CONTACT
+Contact
 
 [![gmail-badge][gmail-img]][gmail]
 [![linkedin-badge][linkedin-img]][linkedin]
