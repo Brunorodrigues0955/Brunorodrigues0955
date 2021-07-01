@@ -1,10 +1,10 @@
-## HELLO IS HERE MY PROFILE!
+# HELLO IS HERE MY PROFILE!⚡
+
+## About me ✏️
+   **I'm 20 years old, started studying programming in 2020. 
+I Intend to become a front-end developer.**
 
 <!--
-**Brunorodrigues0955/Brunorodrigues0955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Contact
+### Contact 💬
 
 [![gmail-badge][gmail-img]][gmail]
 [![linkedin-badge][linkedin-img]][linkedin]
