@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin]: https://www.linkedin.com/in/brunorodri/
 
-[github-img]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[github]: https://github.com/Brunorodrigues0955
 
 ---
 
