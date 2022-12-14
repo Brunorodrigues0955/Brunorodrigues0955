@@ -1,8 +1,8 @@
 # HELLO IS HERE MY PROFILE!⚡
 
 ## About me ✏️
-   **I'm 20 years old, started studying programming in 2020. 
-I Intend to become a front-end developer.**
+   **Hey! my name is Bruno and I live in Brazil and I am currently studying to be a QA, I already come from a trajectory of studies in systems development with Web development. I'm a software development enthusiast My goal is to become an Agile QA.
+   During the time we were isolated at home, I decided to learn something new, and try a new path in the Software Testing area, an area that I found very interesting and that I see a lot of potential in which I can identify.**
 
 <!--
 - 🔭 I’m currently working on ...
